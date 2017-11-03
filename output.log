@@ -1,0 +1,14 @@
+nohup: ignoring input
+3001
+[0mGET / [36m304 [0m14.175 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.847 ms - -[0m
+[0mGET /getcard?q=elephant [32m200 [0m216.603 ms - 38386[0m
+[0mGET /getcard?q=crossbow [32m200 [0m287.711 ms - 8109[0m
+[0mGET /getcard?q=dragon [32m200 [0m418.076 ms - 168563[0m
+[0mGET /getcard?q=mountain [32m200 [0m549.004 ms - 297175[0m
+[0mGET /getcard?q=mountain [32m200 [0m467.486 ms - 297175[0m
+[0mGET /getcard?q=danielle [32m200 [0m79.592 ms - 12[0m
+[0mGET /getcard?q=eric [32m200 [0m119.829 ms - 62382[0m
+[0mGET /getcard?q=quin [32m200 [0m112.087 ms - 10941[0m
+[0mGET /getcard?q=quinn [32m200 [0m116.866 ms - 12[0m
+[0mGET /getcard?q=quin [32m200 [0m113.080 ms - 10941[0m
